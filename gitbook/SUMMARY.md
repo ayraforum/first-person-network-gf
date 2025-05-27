@@ -1,8 +1,11 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Appendix](appendix/README.md)
-  * [Future Considerations](appendix/future-considerations/README.md)
-    * [Referrals](appendix/future-considerations/referrals.md)
-    * [Vouching](appendix/future-considerations/vouching.md)
-  * [Out of Scope](appendix/out-of-scope.md)
+* [Appendices](appendices/README.md)
+  * [Design Considerations](appendices/design-considerations.md)
+  * [Opportunities](appendices/opportunities.md)
+  * [Future Considerations](appendices/future-considerations/README.md)
+    * [Referrals](appendices/future-considerations/referrals.md)
+    * [Vouching](appendices/future-considerations/vouching.md)
+    * [Communities](appendices/future-considerations/communities.md)
+  * [Out of Scope](appendices/out-of-scope.md)
