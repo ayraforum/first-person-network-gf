@@ -8,4 +8,5 @@
     * [Referrals](appendices/future-considerations/referrals.md)
     * [Communities](appendices/future-considerations/communities.md)
     * [Vouching](appendices/future-considerations/vouching.md)
+    * [Assurance Levels](appendices/future-considerations/assurance-levels.md)
   * [Out of Scope](appendices/out-of-scope.md)
