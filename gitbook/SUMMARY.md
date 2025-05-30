@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
+  * [Working with the FPNGF](welcome/working-with-the-fpngf.md)
+  * [History](welcome/history.md)
+  * [Copyright & License](welcome/copyright-and-license.md)
 * [Appendices](appendices/README.md)
   * [Design Considerations](appendices/design-considerations.md)
   * [Opportunities](appendices/opportunities.md)
@@ -9,4 +12,5 @@
     * [Communities](appendices/future-considerations/communities.md)
     * [Vouching](appendices/future-considerations/vouching.md)
     * [Assurance Levels](appendices/future-considerations/assurance-levels.md)
+    * [Risk Assessment](appendices/future-considerations/risk-assessment.md)
   * [Out of Scope](appendices/out-of-scope.md)
