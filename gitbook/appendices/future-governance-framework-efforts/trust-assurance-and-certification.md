@@ -1,0 +1,13 @@
+# Trust Assurance & Certification
+
+The FPN Governance Authority SHALL consider building trust assurance and certification models into its governance.&#x20;
+
+The FPN Governance Authority MAY rely upon other governance frameworks for trust assurance and certification.
+
+| ToIP Metamodel Input                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>This category specifies trust criteria for governed parties be held accountable against requirements of the GF. Controlled documents in this category:</p><ol><li>SHOULD include a trust assurance framework that defines a scheme in which governed parties assert compliance with the policies of the GF and the mechanisms of assurance over those assertions.</li><li>SHOULD (if applicable) define the roles of auditors and auditor accreditors and the policies governing their actions.</li><li>SHOULD (if applicable) define the roles of certifying parties and the policies governing their actions and relationships with the governing authority, auditors and auditor accreditors.</li></ol><p>SHOULD (if applicable) include requirements supporting the development, licensure, and usage of one or more trust marks.</p> |
+
+For input:
+
+* \
