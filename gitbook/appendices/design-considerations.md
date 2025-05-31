@@ -4,6 +4,10 @@ description: Every architecture needs to include design considerations.
 
 # Design Considerations
 
+## Unique Governance
+
+
+
 ## Behaviour to Encourage
 
 * Communities with a motivation to invite members
