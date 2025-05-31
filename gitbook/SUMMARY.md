@@ -4,6 +4,7 @@
   * [Working with the FPNGF](welcome/working-with-the-fpngf.md)
   * [History](welcome/history.md)
   * [Copyright & License](welcome/copyright-and-license.md)
+  * [\[TODO\] Code of Conduct](welcome/todo-code-of-conduct.md)
 * [Appendices](appendices/README.md)
   * [Design Considerations](appendices/design-considerations.md)
   * [Opportunities](appendices/opportunities.md)

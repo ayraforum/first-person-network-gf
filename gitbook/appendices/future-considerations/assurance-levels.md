@@ -1,6 +1,6 @@
 # Assurance Levels
 
-The establishment of Levels of Assurance (aka Assurance Levels) is a maturation step that the FPNA should consider in the future.
+The establishment of Levels of Assurance (also known as Assurance Levels) is a maturation step that the FPNA should consider in the future.
 
 Why Later?
 
@@ -10,13 +10,25 @@ There are many reasons why establishing a rigorous LoA approach should wait:
 * **Higher cost than the associated risk.** Higher assurance levels generally imply higher costs for both the organizations that provide higher assurance levels and the network itself. These higher costs may create barriers to early adoption when the risk is low, but that low-risk posture will not last as FPN grows.
 * **Minimize Duplication.** Some use cases will require rigorous assurance levels, which may be handled in other governance frameworks (e.g. a payment that is enabled by a FPN connection may already be governed in terms of LoAs in a different governance framework.&#x20;
 
+Other input:
+
+* PHC Issuers & Credentials - given the “one and only one” requirement for PHC issuance in an ecosystem there may need to be several levels of assurance. Organizations that have burden of comparing people (e.g. user in LF world having more than one LFX account) is non-trivial, what is the incentive to level up?&#x20;
+
+
+
+| Requirement                                                                                   |
+| --------------------------------------------------------------------------------------------- |
+| PHC Issuers SHALL meet the (to be developed) minimum standards for assurance required to meet |
+| Wallets & Agents SHALL                                                                        |
+|                                                                                               |
+
 
 
 Content below here is provided as input...
 
 
 
-The following assurance levels are copied from the [Pan-Canadian Trust Framework - Public Sector Profile v1.5](https://github.com/canada-ca/PCTF-CCP/blob/master/Version1_5/PSP-PCTF-Version-1_5-Consolidated%20Overview-EN.pdf). They begin to explore the key types of assurance level but create a complex (four distinct factors) which may be too onerous for the early days of the FPN.
+The following assurance levels are copied from the [Pan-Canadian Trust Framework - Public Sector Profile v1.5](https://github.com/canada-ca/PCTF-CCP/blob/master/Version1_5/PSP-PCTF-Version-1_5-Consolidated%20Overview-EN.pdf). They begin to explore the key types of assurance level but create a complex approach that considers four distinct areas where assurance levels are applied (person identity, organization identity, relationship, and credential/wallet. This approach may be too onerous for the early days of the FPN.
 
 ### &#x20;Pan-Canadian Identity Assurance Levels (Persons)
 
@@ -33,5 +45,7 @@ The following assurance levels are copied from the [Pan-Canadian Trust Framework
 <table><thead><tr><th valign="bottom">Qualifier Value</th><th>Description</th></tr></thead><tbody><tr><td valign="bottom">R1</td><td>Little confidence required that the person(s) is/are who they claim to be, that the organization(s) identity information is correct, and that there is evidence of the Relationship.</td></tr><tr><td valign="bottom">R2</td><td>Some confidence required that the person(s) is/are who they claim to be, that the organization(s) identity information is correct, and that there is evidence of the Relationship.</td></tr><tr><td valign="bottom">R3</td><td>High confidence required that the person(s) is/are who they claim to be, that the organization(s) identity information is correct, and that there is evidence of the Relationship.</td></tr><tr><td valign="bottom">R4</td><td>Very high confidence required that the person(s) is/are who they claim to be, that the organization(s) identity information is correct, and that there is evidence of the Relationship.</td></tr></tbody></table>
 
 ### &#x20;Pan-Canadian Credential Assurance Levels
+
+* N.B.: The credential assurance may be simplied to wallet assurance as that may be the most limiting aspect for "control" listed below.
 
 <table><thead><tr><th valign="bottom">Qualifier Value</th><th>Description</th></tr></thead><tbody><tr><td valign="bottom">C1</td><td>Little confidence required that a Holder has control over an issued Credential and that the issued Credential is valid.</td></tr><tr><td valign="bottom">C2</td><td>Some confidence required that a Holder has control over an issued Credential and that the issued Credential is valid.</td></tr><tr><td valign="bottom">C3</td><td>High confidence required that a Holder has control over an issued Credential and that the issued Credential is valid.</td></tr><tr><td valign="bottom">C4</td><td>Very high confidence required that a Holder has control over an issued Credential and that the issued Credential is valid.</td></tr></tbody></table>
