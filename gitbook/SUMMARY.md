@@ -18,3 +18,4 @@
   * [Future Governance Framework Efforts](appendices/future-governance-framework-efforts/README.md)
     * [Risk Assessment](appendices/future-governance-framework-efforts/risk-assessment.md)
     * [Trust Assurance & Certification](appendices/future-governance-framework-efforts/trust-assurance-and-certification.md)
+    * [Information Trust Requirements](appendices/future-governance-framework-efforts/information-trust-requirements.md)
