@@ -14,6 +14,7 @@
     * [Scoring](appendices/future-considerations/scoring.md)
     * [Vouching](appendices/future-considerations/vouching.md)
     * [Assurance Levels](appendices/future-considerations/assurance-levels.md)
+    * [DSRRELL LOOSE NOTE](appendices/future-considerations/dsrrell-loose-note.md)
   * [Out of Scope](appendices/out-of-scope.md)
   * [Future Governance Framework Efforts](appendices/future-governance-framework-efforts/README.md)
     * [Risk Assessment](appendices/future-governance-framework-efforts/risk-assessment.md)
