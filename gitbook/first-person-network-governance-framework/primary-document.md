@@ -2,7 +2,7 @@
 description: Primary Document for the First Person Network Governance Framework
 ---
 
-# First Person Network Governance Framework
+# Primary Document
 
 ## Introduction
 
@@ -41,7 +41,7 @@ The second principle is that every design decision should be measured by how muc
 
 The following additional principles are inherited and adapted from the Ayra Principles.
 
-<table data-header-hidden><thead><tr><th width="212.84375"></th><th></th></tr></thead><tbody><tr><td>Transparent by Default</td><td>The FPNA shall follow transparent processes whenever possible, communicating the “who”, "when", "why" of how decisions are reached, in order to engender trust both among members and with the larger community.</td></tr><tr><td>Equitable Participation</td><td>The FPNA shall be open to all parties who have a direct stake in its mission; it shall give equitable representation to all such stakeholders; and it shall not give preference to any single stakeholder or group of stakeholders.</td></tr><tr><td>Nonprofit </td><td>The FPNA shall be a nonprofit steward of First Person infrastructure that will provide services at cost to its members and the broader community. It will be self-sustaining through revenue streams that are consistent with these Principles.</td></tr><tr><td>Non-competitive</td><td>The purpose of the FPNA is to solve problems and provide infrastructure that no member can adequately or fairly provide alone. If a member or a group of members can provide a function consistent with the policies of the First Person Network Governance Framework as or more efficiently and effectively as the FPNA, that function should be left to the members.</td></tr><tr><td>Inclusive &#x26; Diverse</td><td>Membership in the FPNA shall be open to all parties in the defined member classes. Governance of the FPNA shall foster inclusivity and seek to serve a highly diverse membership of individuals and organizations of all sizes, locations, industries, and use cases.</td></tr><tr><td>Independent &#x26; neutral</td><td>As an organization and as an infrastructure, the FPNA shall serve as a neutral independent party serving all members equally and showing favor towards none.</td></tr><tr><td>Respect sovereignty</td><td>The FPNA shall respect the sovereignty of all members.</td></tr><tr><td>Ensures individual sovereignty and solidarity</td><td>Design, governance, and operation of First Person Infrastructure shall ensure that individuals are first-class peers with all other stakeholders and that their rights to security, privacy, portability, and agency over their personal data and digital assets are always protected.</td></tr><tr><td>Protects security and privacy</td><td>The design and operation of First Person infrastructure shall protect and promote the security and privacy of member data.</td></tr><tr><td>Decentralized</td><td>First Person infrastructure shall facilitate direct peer-to-peer relationships between members and enable the private permissioned exchange of verifiable data only between <a href="https://www.identityblog.com/?p=352">justifiable parties</a>. </td></tr><tr><td>Agile and chaordic</td><td>As a governing body, the FPNA shall be as lean, simple, and decentralized as possible—following Dee Hock’s <a href="https://chaordic.io/blog/what-is-in-a-name/">principles for chaordic organizations</a>.</td></tr><tr><td>Standards-based</td><td>The FPNA infrastructure will be based on open standards and conformance profiles for maximum interoperability. <a href="https://open-stand.org/infographic-the-5-core-principles-of-openstand/">See the Open Stand Principles</a>.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="212.84375"></th><th></th></tr></thead><tbody><tr><td><strong>Transparent by Default</strong></td><td>The FPNA shall follow transparent processes whenever possible, communicating the “who”, "when", "why" of how decisions are reached, in order to engender trust both among members and with the larger community.</td></tr><tr><td><strong>Equitable Participation</strong></td><td>The FPNA shall be open to all parties who have a direct stake in its mission; it shall give equitable representation to all such stakeholders; and it shall not give preference to any single stakeholder or group of stakeholders.</td></tr><tr><td><strong>Nonprofit</strong> </td><td>The FPNA shall be a nonprofit steward of First Person infrastructure that will provide services at cost to its members and the broader community. It will be self-sustaining through revenue streams that are consistent with these Principles.</td></tr><tr><td><strong>Non-competitive</strong></td><td>The purpose of the FPNA is to solve problems and provide infrastructure that no member can adequately or fairly provide alone. If a member or a group of members can provide a function consistent with the policies of the First Person Network Governance Framework as or more efficiently and effectively as the FPNA, that function should be left to the members.</td></tr><tr><td><strong>Inclusive &#x26; Diverse</strong></td><td>Membership in the FPNA shall be open to all parties in the defined member classes. Governance of the FPNA shall foster inclusivity and seek to serve a highly diverse membership of individuals and organizations of all sizes, locations, industries, and use cases.</td></tr><tr><td><strong>Independent &#x26; neutral</strong></td><td>As an organization and as an infrastructure, the FPNA shall serve as a neutral independent party serving all members equally and showing favor towards none.</td></tr><tr><td><strong>Respect sovereignty</strong></td><td>The FPNA shall respect the sovereignty of all members.</td></tr><tr><td><strong>Ensures individual sovereignty and solidarity</strong></td><td>Design, governance, and operation of First Person Infrastructure shall ensure that individuals are first-class peers with all other stakeholders and that their rights to security, privacy, portability, and agency over their personal data and digital assets are always protected.</td></tr><tr><td><strong>Protects security and privacy</strong></td><td>The design and operation of First Person infrastructure shall protect and promote the security and privacy of member data.</td></tr><tr><td><strong>Decentralized</strong></td><td>First Person infrastructure shall facilitate direct peer-to-peer relationships between members and enable the private permissioned exchange of verifiable data only between <a href="https://www.identityblog.com/?p=352">justifiable parties</a>. </td></tr><tr><td><strong>Agile and chaordic</strong></td><td>As a governing body, the FPNA shall be as lean, simple, and decentralized as possible—following Dee Hock’s <a href="https://chaordic.io/blog/what-is-in-a-name/">principles for chaordic organizations</a>.</td></tr><tr><td><strong>Standards-based</strong></td><td>The FPNA infrastructure will be based on open standards and conformance profiles for maximum interoperability. <a href="https://open-stand.org/infographic-the-5-core-principles-of-openstand/">See the Open Stand Principles</a>.</td></tr></tbody></table>
 
 ## Scope
 
@@ -64,14 +64,13 @@ This Community Review version of the FPNGF is the starting point of a community-
 1. **PHC issuer:** A trust community that issues a personhood credential (PHC) in accordance with this governance framework.
 2. **PHC oracle:** A system that consumes and verifies verifiable data in order to generate and issue a PHC in accordance with this governance framework. For example, a system may consume a government-issued mDL or other identity verification credential and generate a PHC at a given level of assurance.&#x20;
 3. **PHC holder:** An individual FPN Member who has been issued a PHC.
-4. **VRC issuer:** An individual or trust community who issues a verifiable relationship credential (VRC) in accordance with this governance framework.
+4. **VRC issuer:** An individual or trust community that issues a verifiable relationship credential (VRC) in accordance with this governance framework.
 5. **VRC holder:** A FPN Member who has been issued a VRC.
 6. **FPC oracle:** A system that consumes and verifies PHCs and VRCs in order to generate a First Person credential (FPC). Note that an FPC oracle is only needed if a First Person agent is not able to directly generate a zero-knowledge  FPC proof in accordance with this governance framework.
 7. **FPC holder:** An individual FPN Member who has been issued a FPC or whose First Person agent is able to generate an FPC proof..
 8. **FPC verifier:** A verifier that requests an FPC proof as defined in this governance framework.
 9. **First Person agent provider:** A First Person infrastructure provider who provides agent and wallet technology in accordance with this governance framework. First Person agents may run at the network edge (mobile device) or cloud (server) level.&#x20;
-
-First Person service provider: A First Person infrastructure provider who provides communications, data storage, recovery, and other services to FPN Members in accordance with this governance framework.  This includes mediators, intermediaries, notification services, wallet-attached storage providers, etc.
+10. **First Person service provider:** A First Person infrastructure provider who provides communications, data storage, recovery, and other services to FPN Members in accordance with this governance framework.  This includes mediators, intermediaries, notification services, wallet-attached storage providers, etc.
 
 ### Future Work and Out of Scope
 
@@ -87,7 +86,7 @@ Topics where future work is needed beyond V1 are marked like this:
 | <mark style="background-color:green;">FUTURE WORK (BEYOND V1): \<comment here></mark> |
 | ------------------------------------------------------------------------------------- |
 
-The following topics are explicitly out-of-scope for V1:
+The following topics are explicitly out of scope for V1:
 
 1. Vouching.
 2. Community-relative trust scores.
@@ -97,7 +96,7 @@ Additional discussion of future work will continue on Gitbook[^1].
 ## Objectives
 
 1. **Trust relationships.** The primary objective of the First Person Network is to empower all FPN Members to establish and maintain trust relationships and to confidently make trust decisions about their interactions with other FPN Members.
-2. **Privacy-preserving proof of personhood.** The First Person Network should enable any FPN individual member to provide a proof of personhood at an assurance level defined in this governance framework without sharing unnecessary personal data.
+2. **Privacy-preserving proof of personhood.** The First Person Network should enable any FPN individual member to provide proof of personhood at an assurance level defined in this governance framework without sharing unnecessary personal data.
 3. **Privacy-preserving verifiable credentials.** The First Person Network should enable individual members to share privacy-preserving proofs of other verifiable credentials as needed in a particular trust relationship.&#x20;
 4. **Private data sharing.** The First Person Network should enable FPN members to share data with confidence about its authenticity and confidentiality.
 5. **Private communications.** The First Person Network should enable FPN members to communicate privately.
@@ -116,7 +115,7 @@ Additional discussion of future work will continue on Gitbook[^1].
 1. At minimum, the FPNGF SHALL be reviewed annually.
 2. Revisions to the Primary Document are subject to the following policies:
    1. All revisions to the Primary Document MUST be identified with a revision number that is a sequential integer.
-   2. Revisions to the Primary Document SHALL be subject to public review at the Ayra Foundation, by members of the First Person Network and Ayra communities, for a period of at least 30 days.
+   2. Revisions to the Primary Document SHALL be subject to public review at the Ayra Foundation, by members of the First Person Network and Ayra communities, for at least 30 days.
    3. Any substantive inputs received during the review period SHALL be dispositioned in a public record.&#x20;
    4. Inputs received will be dispositioned and receive a disposition status of:
       1. Accepted - the comment is incorporated into the standard

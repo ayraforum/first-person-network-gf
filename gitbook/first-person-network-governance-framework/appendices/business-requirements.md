@@ -1,0 +1,4 @@
+# Business Requirements
+
+| <p>TODO FOR V1:</p><p>Develop the business requirements for:</p><ol><li>Registering of PHC issuers and FPC oracles in trust registries recognized by the <a href="https://ayra.forum/">Ayra Trust Network</a>.</li><li>Fees, if any, that may be charged for issuance of PHCs or FPCs.</li><li>The relationship of PHC issuers, FPC holders, and FPC verifiers with the First Person Network Association.</li></ol> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
