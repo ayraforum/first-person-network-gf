@@ -1,10 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
-  * [Opportunities](welcome/opportunities.md)
   * [History](welcome/history.md)
   * [Copyright & License](welcome/copyright-and-license.md)
-  * [Design Considerations](welcome/design-considerations.md)
 * [First Person Network Governance Framework](first-person-network-governance-framework/README.md)
   * [Primary Document](first-person-network-governance-framework/primary-document.md)
   * [Appendices](first-person-network-governance-framework/appendices/README.md)
@@ -29,3 +27,5 @@
     * [Assurance Levels](the-work-ahead/future-considerations/assurance-levels.md)
     * [Out of Scope](the-work-ahead/future-considerations/out-of-scope.md)
     * [DSRRELL LOOSE NOTE](the-work-ahead/future-considerations/dsrrell-loose-note.md)
+* [placeholder](placeholder/README.md)
+  * [Design Considerations](placeholder/design-considerations.md)
