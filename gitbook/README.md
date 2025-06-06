@@ -1,8 +1,9 @@
----
-description: >-
-  If you're seeing this you found us in mid-creation. Congrats. Now come back in
-  a week or two!
----
-
 # Welcome
 
+The First Person Network Governance Framework (FPNGF) has not reached a starting point - the Community Release.&#x20;
+
+The FPGNF is in its early stages.&#x20;
+
+The base framework established here is intended to bring the community in to take on leadership and ownership of the creation. \
+\
+The FPNGF will evolve over months and years. As it shifts from conceptual phase to beta&#x20;
