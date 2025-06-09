@@ -26,6 +26,6 @@
     * [Vouching](the-work-ahead/future-considerations/vouching.md)
     * [Assurance Levels](the-work-ahead/future-considerations/assurance-levels.md)
     * [Out of Scope](the-work-ahead/future-considerations/out-of-scope.md)
-    * [DSRRELL LOOSE NOTE](the-work-ahead/future-considerations/dsrrell-loose-note.md)
+    * [DARRELL LOOSE NOTE](the-work-ahead/future-considerations/darrell-loose-note.md)
 * [placeholder](placeholder/README.md)
   * [Design Considerations](placeholder/design-considerations.md)

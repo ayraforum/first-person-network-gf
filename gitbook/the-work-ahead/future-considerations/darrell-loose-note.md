@@ -1,4 +1,4 @@
-# DSRRELL LOOSE NOTE
+# DARRELL LOOSE NOTE
 
 2025.05.16
 
@@ -62,6 +62,12 @@ First Order & Second Order Interests
   * 1st: reduced fraud & friction
   * 2nd: relationships & vouching
 * Individual?????
+
+
+
+
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 \
 
