@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # DARRELL LOOSE NOTE
 
 2025.05.16

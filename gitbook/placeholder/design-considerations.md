@@ -25,13 +25,13 @@ description: Every architecture needs to include design considerations.
 
 
 
+The following was inspired by a [tweet from Greg McKeown](https://x.com/GregoryMcKeown/status/1920146714901815705) (author)&#x20;
 
+A high-trust structure is one where expectations are:
 
-A high-trust structure is on where expections are:
-
-* expectations are clear
-* goals are shared
-* roles are clear
+* Expectations are clear
+* Goals are shared
+* Roles are clear
 
 
 

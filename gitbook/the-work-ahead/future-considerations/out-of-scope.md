@@ -2,6 +2,7 @@
 description: >-
   The First Person Network Governance Framework has items that are explicitly
   out of scope.
+hidden: true
 ---
 
 # Out of Scope

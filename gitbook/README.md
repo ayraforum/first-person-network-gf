@@ -1,6 +1,10 @@
 # Welcome
 
-The First Person Network Governance Framework (FPNGF) has not reached a starting point - the Community Release.&#x20;
+Welcome to the Community Preview 01
+
+This framework is intended to be a starting point for the First Person Network Governance Framework (FPNGF). I was sponsored by&#x20;
+
+The FPNGF has not reached a starting point - the Community Release.&#x20;
 
 The FPGNF is in its early stages.&#x20;
 

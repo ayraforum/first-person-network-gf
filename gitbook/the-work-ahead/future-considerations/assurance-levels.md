@@ -2,11 +2,11 @@
 
 The establishment of Levels of Assurance (also known as Assurance Levels) is a maturation step that the FPNA should consider in the future.
 
-Why Later?
+#### **Why Later?**
 
 There are many reasons why establishing a rigorous LoA approach should wait:
 
-* **Prove value before imposing costs.** Any assurance level framework will require efforts on the part of organizations. The basic requirements of this FPNGF will help set the bar high enough to create value.
+* **Prove value before imposing costs.** Any assurance level framework will require efforts on the part of organizations. The basic requirements of this FPNGF will help set the bar high enough to create value. As higher value use cases are exposed assurance levels can be created.&#x20;
 * **Higher cost than the associated risk.** Higher assurance levels generally imply higher costs for both the organizations that provide higher assurance levels and the network itself. These higher costs may create barriers to early adoption when the risk is low, but that low-risk posture will not last as FPN grows.
 * **Minimize Duplication.** Some use cases will require rigorous assurance levels, which may be handled in other governance frameworks (e.g. a payment that is enabled by a FPN connection may already be governed in terms of LoAs in a different governance framework.&#x20;
 
