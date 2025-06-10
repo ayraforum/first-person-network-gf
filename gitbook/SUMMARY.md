@@ -27,5 +27,6 @@
     * [Assurance Levels](the-work-ahead/future-considerations/assurance-levels.md)
     * [Out of Scope](the-work-ahead/future-considerations/out-of-scope.md)
     * [DARRELL LOOSE NOTE](the-work-ahead/future-considerations/darrell-loose-note.md)
+    * [Issuer Qualification](the-work-ahead/future-considerations/issuer-qualification.md)
 * [placeholder](placeholder/README.md)
   * [Design Considerations](placeholder/design-considerations.md)
