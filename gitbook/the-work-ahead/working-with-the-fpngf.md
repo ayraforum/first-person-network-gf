@@ -9,7 +9,7 @@ The First Person Network Governance Framework is in a community-building phase. 
 There are TWO different mechanisms for working on the FPNGF:
 
 * Directly in Gitbook
-  * You can comment and make annotations here in this Gitbook.
+  * You can comment and make annotations here in this Gitbook. Request access (here).
 * Via the  [Github repository](https://github.com/ayraforum/first-person-network-gf) (hosted by Ayra):
   * The [Github Project](https://github.com/orgs/ayraforum/projects/1) for overall management of the project
   * PRs can be proposed
